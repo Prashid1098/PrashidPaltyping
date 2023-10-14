@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPaltyping/static/css/main.8a63e994.css",
+    "main.js": "/PrashidPaltyping/static/js/main.fc8a7d2e.js",
+    "index.html": "/PrashidPaltyping/index.html",
+    "main.8a63e994.css.map": "/PrashidPaltyping/static/css/main.8a63e994.css.map",
+    "main.fc8a7d2e.js.map": "/PrashidPaltyping/static/js/main.fc8a7d2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a63e994.css",
+    "static/js/main.fc8a7d2e.js"
+  ]
+}

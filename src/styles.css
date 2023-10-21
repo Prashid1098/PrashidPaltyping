@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+.typecat
+{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: "Black Ops One", cursive;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 12vh 15vw 0vh 15vw;
+}
+footer
+{
+    margin: 75vh 0vw 0vh 15vw;
+}
+.App, .timedata button
+{
+    color: white;
+    font-size: 15px;
+}
+.timedata button
+{
+    width: 2vw;
+    height: 3vh;
+    border: 1px solid #000000;
+}
+.row-1
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    margin: 0vh 15vw 0vh 15vw;
+    padding-top: 2vh;
+}
+.text-box
+{
+    font-size: 20px;
+    margin: 0vh 15vw 0vh 15vw;
+    word-spacing: 10px;
+}
+#colorSelector,#colorSelector option
+{
+    background-color: white;
+    font-weight: bold;
+}
+.options
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0vh 15vw 1vh 15vw;
+    height: 4vh;
+}
+

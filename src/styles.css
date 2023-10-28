@@ -1,0 +1,93 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+.typecat
+{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: "Black Ops One", cursive;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 12vh 15vw 0vh 15vw;
+}
+footer
+{
+    margin: 75vh 0vw 0vh 15vw;
+}
+.App, .timedata button
+{
+    color: white;
+    font-size: 15px;
+}
+.timedata button
+{
+    width: 2vw;
+    height: 3vh;
+    border: 1px solid #000000;
+}
+
+.timedata button:hover
+{
+    cursor: pointer;
+    color: green;
+}
+.row-1
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    margin: 0vh 15vw 0vh 15vw;
+    padding-top: 2vh;
+}
+.text-box
+{
+    font-size: 24px;
+    color: gray;
+    font-family: monospace;
+    margin: 0vh 15vw 0vh 15vw;
+    word-spacing: 10px;
+}
+#colorSelector,#colorSelector option
+{
+    background-color: white;
+    font-weight: bold;
+}
+.options
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0vh 15vw 0vh 0vw;
+    height: 4vh;
+}
+.Icons a
+{
+    padding: 1vw;
+}
+.rel
+{
+    margin: 30vh 0vw 0vh 45vw;
+    color: white;
+}
+.esc
+{
+    border: 1px solid;
+    color: #000000;
+    background-color: white;
+    padding: 0.2vw 1.5vh;
+    border-radius: 10px;
+}
+.para-size span
+{
+    border: 1px solid;
+    color: #000000;
+    background-color: white;
+    padding: 0.2vw 1.5vh;
+    border-radius: 10px;
+    margin: 5px;
+}
+
